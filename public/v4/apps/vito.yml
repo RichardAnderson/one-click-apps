@@ -37,7 +37,6 @@ caproverOneClickApp:
           validRegex: '/^.+@.+\..+$/'
         - id: '$$cap_vito_admin_password'
           label: Admin Password
-          defaultValue: '$$cap_gen_random_hex(12)'
           description: Password for the initial administrator account. You can change it after logging in.
           validRegex: '/.{8,}/'
     instructions:
