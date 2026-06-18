@@ -62,7 +62,7 @@ caproverOneClickApp:
             APP_URL to connect and validate, so they will break if it is out of sync.
 
             Documentation: https://vitodeploy.com/docs
-    displayName: Vito
+    displayName: VitoDeploy
     isOfficial: true
-    description: Vito is a self-hosted, agentless server management and deployment tool for provisioning servers and deploying applications.
+    description: VitoDeploy is a self-hosted, agentless server management and deployment tool for provisioning servers and deploying custom websites.
     documentation: See https://vitodeploy.com/docs/getting-started/installation
